@@ -1,0 +1,1 @@
+export const ApiUrl = 'https://x-clone-ald6.onrender.com/';
